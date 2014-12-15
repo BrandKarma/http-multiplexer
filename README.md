@@ -23,3 +23,6 @@ cabal configure
 cabal build
 ```
 
+
+## License
+BSD-3 Copyright © 2014 BrandKarma (Circos.com)
