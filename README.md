@@ -10,7 +10,7 @@ Whenever you are migrating a web service. It would be better to test the new ver
 Making sure you have GHC installed. On Mac OS X with homebrew.
 
 ```
-brew install ghc5
+brew install ghc
 ```
 
 
